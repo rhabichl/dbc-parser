@@ -1,3 +1,3 @@
-module github.com/rhabichl/parser
+module github.com/rhabichl/dbc-parser
 
 go 1.23.2
